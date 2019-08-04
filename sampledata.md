@@ -10,6 +10,7 @@ title: About
     <td>
       {{ opponent }}
     </td>
+    {% endfor %}
   </tr>
 {% endfor %}
 </table>
