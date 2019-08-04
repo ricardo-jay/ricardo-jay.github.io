@@ -10,7 +10,7 @@ title:            RJ
 tagline:          'WIP website'
 description:      'WIP'
 url:              https://ricardo-jay.github.io
-baseurl:          https://ricardo-jay.github.io/hyde/
+baseurl:          /hyde/
 
 author:
   name:           'RJ'
