@@ -8,7 +8,7 @@ title: About
   <tr>
     {% for opponent in player %}
     <td>
-      {{ opponent }}
+      {{ opponent.title }}
     </td>
     {% endfor %}
   </tr>
