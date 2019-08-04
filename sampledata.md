@@ -8,7 +8,7 @@ title: Sample data
   <tr>
     {% for opponent in player %}
     <td>
-      {{ opponent.title }}
+      {{ opponent[1]}}
     </td>
     {% endfor %}
   </tr>
